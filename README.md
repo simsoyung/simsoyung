@@ -6,23 +6,16 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Soyung;Welcome+to+my+Github" alt="Typing SVG">
   </a>
   
-   <center>
-    <table>
-      <tr>
-        <td>
-          <!-- GitHub Stats -->
-          <a href="https://github.com/simsoyung/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api?username=simsoyung" alt="Soyung's GitHub stats">
-          </a>
-        </td>
-        <td>
-          <!-- Most Used Languages -->
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simsoyung&layout=compact" alt="Top Languages">
-        </td>
-      </tr>
-    </table>
-  </center>
+  <div>
+    <a href="https://github.com/simsoyung/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=simsoyung" alt="Soyung's GitHub stats" style="display: block; margin: auto; width: 400px;">
+    </a>
+  </div>
 
+  <!-- Most Used Languages -->
+  <div style="margin-top: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simsoyung&layout=compact" alt="Top Languages" style="display: block; margin: auto; width: 400px;">
+  </div>
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
