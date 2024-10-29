@@ -3,12 +3,12 @@
 <body style="text-align: center; font-family: Arial, sans-serif;">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Soyung;Welcome+to+my+Github" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Soyung;Welcome+to+my+Github" alt="Typing SVG" style="display: block; margin: 0 auto;">
   </a>
   
-  <div>
+  <div style="margin-top: 20px;>
     <a href="https://github.com/simsoyung/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=simsoyung" alt="Soyung's GitHub stats" style="display: block; margin: auto; width: 400px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=simsoyung" alt="Soyung's GitHub stats" style="display: block; margin: 0 auto; width: 400px;">
     </a>
   </div>
 
@@ -16,6 +16,7 @@
   <div style="margin-top: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simsoyung&layout=compact" alt="Top Languages" style="display: block; margin: auto; width: 400px;">
   </div>
+  
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
