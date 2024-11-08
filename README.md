@@ -7,7 +7,7 @@
   </a>
 
   <p>
-    <img src="https://github.com/simsoyung/simsoyung/raw/main/Tetris.svg" alt="Tetris Game" width="400" height="auto"/>
+    <img src="https://github.com/simsoyung/simsoyung/blob/main/Tetris%20(Community)%20(Copy).svg" alt="Tetris Game" width="400" height="auto"/>
   </p>
 
   <div style="margin-top: 20px;">
