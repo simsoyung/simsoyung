@@ -7,17 +7,17 @@
   </a>
 
   <p>
-    <img src="https://github.com/simsoyung/simsoyung/blob/main/Tetris%20(Community)%20(Copy).svg" alt="Tetris Game" width="400" height="auto"/>
+    <img src="https://github.com/simsoyung/simsoyung/blob/main/Tetris%20(Community)%20(Copy).svg" alt="Tetris Game" width="250" height="auto"/>
   </p>
 
   <div style="margin-top: 20px;">
     <a href="https://github.com/simsoyung/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=simsoyung" alt="Soyung's GitHub stats" style="display: block; margin: 0 auto; width: 400px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=simsoyung" alt="Soyung's GitHub stats" style="display: block; margin: 0 auto; width: 250px;">
     </a>
   </div>
 
   <div style="margin-top: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simsoyung&layout=compact" alt="Top Languages" style="display: block; margin: auto; width: 400px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simsoyung&layout=compact" alt="Top Languages" style="display: block; margin: auto; width: 250px;">
   </div>
 
   </br>
